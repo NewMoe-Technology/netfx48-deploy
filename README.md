@@ -1,5 +1,8 @@
 # netfx48-deploy — .NET Framework 4.8 一键部署包
 
+<img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/ef40994c-dec5-409c-81c3-e08c179fc5b8" />
+<img width="1456" height="974" alt="image" src="https://github.com/user-attachments/assets/b690a5c3-1ec8-46c9-aba8-26267bc5dc4e" />
+
 把真正的微软 .NET Framework 4.8（x86 + x64，含 GAC）快速部署到任意 Wine / Proton 前缀，
 替代 Wine Mono，解决需要完整 .NET Framework 的程序/插件（如 ACT部分Plugin）无法运行的问题。
 

@@ -1,0 +1,5 @@
+﻿08/17/2026 06:42:15.204 [156]: Service state is now SERVICE_START_PENDING
+08/17/2026 06:42:15.204 [156]: Service state is now SERVICE_RUNNING
+08/17/2026 06:42:15.204 [156]: SetServiceStartType(): Setting start type as 2
+08/17/2026 06:42:15.205 [156]: SetServiceStartType(): Setting start type as 3
+08/17/2026 06:42:15.206 [156]: Tried to start a service that wasn't the latest version of CLR Optimization service. Will shutdown
